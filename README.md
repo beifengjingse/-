@@ -28,7 +28,7 @@
 ---
 
 #### 下载并安装：  
-- [下载并安装：](https://chrome.google.com/webstore/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn)
+- [Chrome 网上应用店](https://chrome.google.com/webstore/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn)
 - [Edge 附加组件商店](https://microsoftedge.microsoft.com/addons/detail/speech-translator/jmiekopdidkclpmpandbfblpefalpldo)
 
 ## 故障排除
