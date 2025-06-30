@@ -11,3 +11,5 @@
 - buro dorikku
 - CSharp
 - _ Shino
+- Magnus Wester
+- johnnyredbird
